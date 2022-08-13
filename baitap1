@@ -1,0 +1,36 @@
+import turtle
+son_screen=turtle.Screen()
+son_turtle=turtle.Turtle()
+
+turtle.forward(100)
+turtle.left(angle=90)
+turtle.forward(100)
+turtle.left(angle=90)
+turtle.forward(100)
+turtle.left(angle=90)
+turtle.forward(100)
+turtle.done
+#hinh chu nhat
+import turtle
+son_screen=turtle.Screen()
+pen_turtle=turtle.Turtle()
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(90)
+turtle.done
+#tam giac
+import turtle
+son_Screen=turtle.Screen()
+pen_turtle=turtle.Turtle()
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
