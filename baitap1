@@ -23,7 +23,7 @@ turtle.left(90)
 turtle.forward(50)
 turtle.left(90)
 turtle.done
-#tam giac
+#tam 
 import turtle
 son_Screen=turtle.Screen()
 pen_turtle=turtle.Turtle()
